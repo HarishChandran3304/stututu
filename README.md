@@ -1,6 +1,6 @@
 # Stututu (currently still in development)
 
-### An exclusive JDM car rental concept app being:
+### An exclusive JDM car rental concept app being -
 * written in TypeScript
 * built with
     * Reactjs, Redux Toolkit, TailwindCSS, Styled Components on the front-end 
